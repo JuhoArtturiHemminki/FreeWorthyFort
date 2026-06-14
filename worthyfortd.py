@@ -17,7 +17,7 @@ Technical Features Covered:
     3. Nanosecond-Level Hardware Latency & Spoofing Detection Trap (Max 20ms Verification Window).
     4. 24/7 Continuous Host Hardware Telemetry Modulator (CPU, RAM, and Security State Encoding).
     5. Failsafe Decoupling and Isolated Black Box Forensic Log Syncing.
-    6. Instantaneous Volatile RAM-muisti Protection and Motherboard Power-Rail Hard Reset.
+    6. Instantaneous Volatile RAM-memory Protection and Motherboard Power-Rail Hard Reset.
     7. Automated Ultrasonic Contact Self-Cleaning Scheduler and Active EMI Shielding Interfacing.
 """
 
