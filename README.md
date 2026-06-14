@@ -24,7 +24,7 @@ Modern cybersecurity relies heavily on software-level defense mechanisms (antivi
 
 FreeWorthyFort completely disrupts this paradigm. It acts as an autonomous analog watchdog. It consumes power harvested entirely from a highly optimized, completely silent 19 kHz audio frequency wave pushed through the computer's built-in DAC. Inside the 3,5 mm jack is a high-efficiency Texas Instruments MSPM0 32-bit ARM Cortex-M0+ microchip running at 80 MHz. It continuously communicates with a low-level OS kernel service via time-based rolling cryptographic keys (TOTP). 
 
-If the computer freezes, gets hacked, or attempts to stop the security stream, FreeWorthyFort instantly detects it through physical and electrical laws. It then activates a hardware-level hard reset or a temporary volatile RAM-muisti (volatile memory) wiping panic sequence to isolate cryptographic keys before malware can harvest them, protecting permanent storage and files from corruption. It does all of this completely battery-free and 100% silently, with zero risk to human health.
+If the computer freezes, gets hacked, or attempts to stop the security stream, FreeWorthyFort instantly detects it through physical and electrical laws. It then activates a hardware-level hard reset or a temporary volatile RAM-memory wiping panic sequence to isolate cryptographic keys before malware can harvest them, protecting permanent storage and files from corruption. It does all of this completely battery-free and 100% silently, with zero risk to human health.
 
 ---
 
